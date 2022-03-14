@@ -27,3 +27,17 @@
                                                      @josetzunun
                                             Also remember, the license is mine.
                                               So, please dont ask who made it
+<script src="https://giscus.app/client.js"
+        data-repo="josetzunun/MyLicense"
+        data-repo-id="R_kgDOG_PN-g"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOG_PN-s4COD6Y"
+        data-mapping="pathname"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
